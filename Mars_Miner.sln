@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
@@ -18,3 +19,25 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mars_Miner", "Mars_Miner.csproj", "{847E6B5E-F881-7AE2-9DC2-43F28C7ABC0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847E6B5E-F881-7AE2-9DC2-43F28C7ABC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847E6B5E-F881-7AE2-9DC2-43F28C7ABC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847E6B5E-F881-7AE2-9DC2-43F28C7ABC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847E6B5E-F881-7AE2-9DC2-43F28C7ABC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> 5596a64f4234566a53e3465bfe83befe7fc24432
